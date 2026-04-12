@@ -8,18 +8,11 @@ I take pride in writing and implementing solutions that not only work, but are e
 
 💼 What I Bring
 
-Strong problem-solving mindset
-Blend of technical expertise and creative thinking
-Experience across multiple platforms and environments
-Attention to detail and focus on quality
-Ability to adapt quickly and learn new tools
+• Strong problem-solving mindset • Blend of technical expertise and creative thinking • Experience across multiple platforms and environments • Attention to detail and focus on quality • Ability to adapt quickly and learn new tools
 
 🚀 Current Focus
 
-Improving system design and infrastructure skills
-Building practical tools and side projects
-Streamlining workflows and automation
-Expanding knowledge across modern tech stacks
+• Improving system design and infrastructure skills • Building practical tools and side projects • Streamlining workflows and automation • Expanding knowledge across modern tech stacks
 
 📫 Connect
 
